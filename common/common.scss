@@ -18,6 +18,13 @@
       padding: 6px 10px;
       color: $header_primary;
       font-size: $font-0;
+      background: linear-gradient(0deg, currentcolor, currentcolor) bottom center no-repeat;
+      background-size: 0px 3px;
+      transition: all 0.3s ease-in-out 0s;
+      text-decoration: none;
+    }
+    a:hover {
+      background-size: 60% 3px;
     }
   }
 }
