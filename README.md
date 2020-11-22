@@ -1,1 +1,1 @@
-# discourse-custom-header-links
+# discourse-custom-header-links-dev
